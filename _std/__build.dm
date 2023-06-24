@@ -110,7 +110,7 @@ o+`        `-` ``..-:yooos-..----------..`
 //-------Special Events:
 //#define MAP_OVERRIDE_CONSTRUCTION	// Construction mode
 //#define MAP_OVERRIDE_POD_WARS   	// 500x500 Pod Wars map
-//#define MAP_OVERRIDE_EVENT      	// Misc. event maps
+#define MAP_OVERRIDE_EVENT      	// Misc. event maps
 //#define MAP_OVERRIDE_PAMGOC				// Pamgoc, cogmaP
 //#define MAP_OVERRIDE_WRESTLEMAP   // Wrestlemap by Overtone
 
